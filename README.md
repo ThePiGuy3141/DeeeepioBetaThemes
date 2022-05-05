@@ -1,5 +1,11 @@
 # Themes for Deeeep.io
 
+## Table of Contents
+- [Instructions](#how-to-use)
+- [Themes](#themes)
+
+---
+
 ## How to use
 **1)** Download the [Asset Swapper](https://chrome.google.com/webstore/detail/asset-swapper/ppbpfkdfdbdpflkahbidgilomkiiholg) Chrome extension.
 
@@ -53,4 +59,20 @@ https://deeeep.io/assets/style.css?v=94
 
 ---
 
-**9)** Open [deeeep.io](https://deeeep.io). You should see the new theme now. If the theme doesn't change, try reloading. 
+**9)** Open [deeeep.io](https://deeeep.io). You should see the new theme now. If the theme doesn't change, try reloading.  
+
+---
+
+## Themes
+| Theme | Creator | Last Updated |  
+|:-----------|:-----------:|:-----------:|  
+| [Beta](#beta) | Pi | May 5, 2022 |
+| [Beta lite](#beta-lite) | Pi | May 5, 2022 |
+
+### [Beta](https://themes.deeeepio.workers.dev/0:/beta.css?a=view)
+A theme designed to make normal deeeep.io (v3) look more like beta (v4). Also has added UI improvements like rounded XP bar and a more accessible chat box.  
+Screenshots: coming soon
+
+### [Beta lite](https://themes.deeeepio.workers.dev/0:/beta_lite.css?a=view)
+Just like beta but for lower-end hardware. No blur.  
+Screenshots: coming soon
