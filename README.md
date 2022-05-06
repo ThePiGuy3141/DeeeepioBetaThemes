@@ -50,12 +50,10 @@ https://deeeep.io/assets/style.css?v=94
 ---
 
 **8)** Clear cache.
-1. Go to history (ctrl/cmd+H).
-2. Click on `Clear browsing data`.  
-![image](https://cdn.glitch.global/9c28dc65-7ef6-46d4-89c8-eb82b36494c0/8-1.png?v=1651713894663)
-3. Change time range to  `All time` and uncheck all the boxes except `Cached images and files`.  
+1. Go to history (`ctrl/cmd`+`shift`+`del`).
+2. Change time range to  `All time` and uncheck all the boxes except `Cached images and files`.  
 ![image](https://cdn.glitch.global/9c28dc65-7ef6-46d4-89c8-eb82b36494c0/8-2.png?v=1651713894861)
-4. Click `Clear data`.
+3. Click `Clear data`.
 
 ---
 
