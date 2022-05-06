@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Instructions](#how-to-use)
 - [Themes](#themes)
+- [How to make a theme](#how-to-make-a-theme)
 
 ---
 
