@@ -66,6 +66,7 @@ https://deeeep.io/assets/style.css?v=94
 |:-----------|:-----------:|:-----------:|  
 | [Beta](#beta) | Pi | May 5, 2022 |
 | [Beta lite](#beta-lite) | Pi | May 5, 2022 |
+| [Hecker](#hecker) | Pi | May 6, 2022 |
 
 ### [Beta](https://themes.deeeepio.workers.dev/0:/beta.css?a=view)
 A theme designed to make normal deeeep.io (v3) look more like beta (v4). Also has added UI improvements like rounded XP bar and a more accessible chat box.  
@@ -74,3 +75,23 @@ Screenshots: coming soon
 ### [Beta lite](https://themes.deeeepio.workers.dev/0:/beta_lite.css?a=view)
 Just like beta but for lower-end hardware. No blur.  
 Screenshots: coming soon
+
+### [Hecker](https://themes.deeeepio.workers.dev/0:/hecker.css?a=view)
+A hacker style theme. Black/dark gray background with green monospace text.  
+Screenshots: coming soon
+
+---
+
+## How to Make a Theme
+```
+You should be familiar with CSS. If you have questions about something, feel free to ask me on discord. 
+```
+**1)** Open [deeeep.io](https://deeeep.io).  
+**2)** Use inspect element and choose the element you want to customize.  
+**3)** Once you are happy with the theme, go to the source tab of the inspect element panel.  
+**4)** Navigate to /assets/style.css in the source tab.  
+**5)** Copy the contents of style.css.  
+**6)** On your computer, make a new file and name it whatever you want.  
+**7)** Open the file and paste the contents of the edited style.css.  
+**8)** Rename the file to <theme_name>.css.  
+**9)** Send it to me on discord and I will upload to the [themes page](https://themes.deeeepio.workers.dev)
