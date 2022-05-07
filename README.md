@@ -16,21 +16,21 @@
 
 **2)** Open Asset Swapper and click on `Add Rule`.  
 
-![image](https://thepiguy3141.github.io/DeeeepioBetaThemes/img/1.png)
+![image](https://thepiguy3141.github.io/DeeeepioBetaThemes/img/2.png)
 
 ---
 
 **3)** In the first text field, put this link:
 ```
-https://deeeep.io/assets/style.css?v=94
+https://beta.deeeep.io/assets/index.55dca4ef.css
 ```
-![image](https://thepiguy3141.github.io/DeeeepioBetaThemes/img/2.png)
+![image](https://thepiguy3141.github.io/DeeeepioBetaThemes/img/3.png)
 
 ---
 
-**4)** Go to [https://themes.deeeepio.workers.dev](https://beta-themes.deeeepio.workers.dev/0:/) and find the theme you want.  
+**4)** Go to [https://beta-themes.deeeepio.workers.dev](https://beta-themes.deeeepio.workers.dev/0:/) and find the theme you want.  
 
-![image](https://thepiguy3141.github.io/DeeeepioBetaThemes/img/3.png)
+![image](https://thepiguy3141.github.io/DeeeepioBetaThemes/img/4.png)
 
 ---
 
