@@ -1,4 +1,4 @@
-# Themes for Deeeep.io
+# Themes for Beta Deeeep.io
 
 > All themes here are made for beta deeeep.io (v4), not normal ver (v3). Do not expect them to work in the normal version since the class names are different. If you didn't read this and yell at me for the themes not working, I will point and laugh at you xD
 
