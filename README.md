@@ -73,7 +73,12 @@ https://deeeep.io/assets/style.css?v=94
 
 ### [Beta](https://themes.deeeepio.workers.dev/0:/beta.css?a=view)
 A theme designed to make normal deeeep.io (v3) look more like beta (v4). Also has added UI improvements like rounded XP bar and a more accessible chat box.  
-Screenshots: coming soon
+
+| ![image](https://thepiguy3141.github.io/DeeeepioThemes/img/beta/title.png) | ![image](https://thepiguy3141.github.io/DeeeepioThemes/img/beta/game.png)
+|:-----------:|:-----------:|
+
+| ![image](https://thepiguy3141.github.io/DeeeepioThemes/img/beta/user.png) | ![image](https://thepiguy3141.github.io/DeeeepioThemes/img/beta/profile.png) | ![image](https://thepiguy3141.github.io/DeeeepioThemes/img/beta/store.png) | ![image](https://thepiguy3141.github.io/DeeeepioThemes/img/beta/settings.png) | ![image](https://thepiguy3141.github.io/DeeeepioThemes/img/beta/lobby.png) | ![image](https://thepiguy3141.github.io/DeeeepioThemes/img/beta/team.png) | ![image](https://thepiguy3141.github.io/DeeeepioThemes/img/beta/death.png) |
+|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 
 ### [Beta lite](https://themes.deeeepio.workers.dev/0:/beta_lite.css?a=view)
 Just like beta but for lower-end hardware. No blur.  
