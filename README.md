@@ -85,6 +85,6 @@ You should be familiar with CSS. If you have questions about something, feel fre
 **4)** Navigate to /assets/index.55dca4ef.css in the source tab  
 **5)** Copy the contents of index.55dca4ef.css  
 **6)** On your computer, make a new file and name it whatever you want  
-**7)** Open the file and paste the contents of the edited index.55dca4ef.css 
+**7)** Open the file and paste the contents of the edited index.55dca4ef.css  
 **8)** Rename the file to <theme_name>.css  
 **9)** Send it to me on discord and I will upload to the [themes page](https://beta-themes.deeeepio.workers.dev)
